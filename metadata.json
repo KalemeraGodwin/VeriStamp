@@ -1,0 +1,6 @@
+{
+  "name": "VeriStamp",
+  "description": "Offline corporate event management, executive ticket serialization, QR verification, and digital receipt stamping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
